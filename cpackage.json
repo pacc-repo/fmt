@@ -2,6 +2,7 @@
 	"name": "fmt",
 	"type": "interface",
 	"defines": "FMT_HEADER_ONLY",
+	"includeFolders": "include",
 	"version": "7.1.3",
 	"description": "(PACC C++ Port of:) A modern formatting library"
 }
